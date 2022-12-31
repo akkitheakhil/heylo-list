@@ -1,0 +1,15 @@
+export const APP_FONTS = {
+    FONT_SIZE_REGULAR: 14,
+    FONT_SIZE_MEDIUM: 18,
+    FONT_SIZE_LARGE: 24,
+    FONT_SIZE_EXTRA_LARGE: 28,
+    FONT_SIZE_XL: 34,
+    FONT_SIZE_XXL: 40,
+
+    FONT_FAMILY_EXTRA_LIGHT: 'Oswald_200ExtraLight',
+    FONT_FAMILY_LIGHT: 'Oswald_300Light',
+    FONT_FAMILY_REGULAR: 'Oswald_400Regular',
+    FONT_FAMILY_MEDIUM: 'Oswald_500Medium',
+    FONT_FAMILY_SEMI_BOLD: 'Oswald_600SemiBold',
+    FONT_FAMILY_BOLD: 'Oswald_700Bold',
+}
